@@ -1,0 +1,26 @@
+{
+  "name": "garnerwebdesign",
+  "version": "1.0.0",
+  "description": "Garner Webdesign web page",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipGarner/garnerwebdesign.git"
+  },
+  "keywords": [
+    "JQuery"
+  ],
+  "author": "Philip Garner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipGarner/garnerwebdesign/issues"
+  },
+  "homepage": "https://github.com/PhilipGarner/garnerwebdesign#readme"
+}
